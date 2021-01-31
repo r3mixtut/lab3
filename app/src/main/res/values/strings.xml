@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Справочник Читателя</string>
+    <string name="hello_text"></string>
+    <string name="btn_send">отправить список</string>
+    <string name="btn_text">показать книги</string>
+    <string-array name="author">
+        <item>Стивен Кинг</item>
+        <item>Джоан Роулинг</item>
+        <item>Генри Форд</item>
+    </string-array>
+</resources>
